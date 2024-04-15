@@ -1,0 +1,3 @@
+# Regla 405. MODOS DE PROBAR EL CARÁCTER.
+(a) Reputación u opinión. — Cuando evidencia de carácter sea admisible bajo la Regla 404, se podrá presentar sólo en forma de testimonio de reputación o de opinión sobre el rasgo de carácter pertinente, sin perjuicio de que en el contrainterrogatorio pueda preguntarse a la persona testigo sobre actos específicos de conducta pertinentes a su testimonio.
+(b) Conducta específica. — Cuando el carácter o rasgo de carácter de una persona sea un elemento esencial de una acusación, reclamación o defensa, podrá ser admitida evidencia de carácter no sólo en forma de testimonio de reputación o de opinión, sino también en forma de actos específicos de conducta.

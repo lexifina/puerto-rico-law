@@ -1,0 +1,10 @@
+# Regla 110. EVALUACIÓN Y SUFICIENCIA DE LA PRUEBA.
+La juzgadora o el juzgador de hechos deberá evaluar la evidencia presentada con el propósito de determinar cuáles hechos han quedado establecidos o demostrados, con sujeción a los principios siguientes:
+(a) El peso de la prueba recae sobre la parte que resultaría vencida de no presentarse evidencia por alguna de las partes.
+(b) La obligación de presentar evidencia primeramente recae sobre la parte que sostiene la afirmativa en el asunto en controversia.
+(c) Para establecer un hecho, no se exige aquel grado de prueba que, excluyendo posibilidad de error, produzca absoluta certeza.
+(d) La evidencia directa de una persona testigo que merezca entero crédito es prueba suficiente de cualquier hecho, salvo que otra cosa se disponga por ley.
+(e) La juzgadora o el juzgador de hechos no tiene la obligación de decidir de acuerdo con las declaraciones de cualquier cantidad de testigos que no le convenzan contra un número menor u otra evidencia que le resulte más convincente.
+(f) En los casos civiles, la decisión de la juzgadora o del juzgador se hará mediante la preponderancia de la prueba a base de criterios de probabilidad, a menos que exista disposición al contrario. En los casos criminales, la culpabilidad de la persona acusada debe ser establecida más allá de duda razonable.
+(g) Cuando pareciere que una parte, teniendo disponible una prueba más firme y satisfactoria, ofrece una más débil y menos satisfactoria, la evidencia ofrecida deberá considerarse con sospecha.
+(h) Cualquier hecho en controversia es susceptible de ser demostrado mediante evidencia directa o mediante evidencia indirecta o circunstancial. Evidencia directa es aquélla que prueba el hecho en controversia sin que medie inferencia o presunción alguna y que, de ser cierta, demuestra el hecho de modo concluyente. Evidencia indirecta o circunstancial es aquélla que tiende a demostrar el hecho en controversia probando otro distinto, del cual por si o, en unión a otros hechos ya establecidos, puede razonablemente inferirse el hecho en controversia.

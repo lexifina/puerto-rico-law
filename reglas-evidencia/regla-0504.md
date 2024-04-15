@@ -1,0 +1,14 @@
+# Regla 504. RELACIÓN CONTADORA O CONTADOR PÚBLICO AUTORIZADO Y CLIENTE.
+(a) Según usadas en esta regla, las siguientes expresiones tendrán el significado que a continuación se indica:
+(1) Contadora o contador público autorizado. — Toda persona que posea una licencia para dedicarse a la práctica de la contabilidad en Puerto Rico o en los Estados Unidos de América.
+(2) Cliente. — Persona natural o jurídica que consulta a una contadora o contador público autorizado, o a quien creyó con autorización para ejercer la profesión de la contabilidad, con el propósito de contratarle o de obtener servicios en su capacidad profesional.
+(3) Comunicación confidencial. — Aquélla habida entre una contadora o contador público autorizado —incluyendo a las personas que son sus asociadas, ayudantes y empleadas de oficina— y su cliente en relación con alguna gestión profesional, realizada en el ejercicio de la profesión de contabilidad, basada en la confianza de que no será divulgada a terceras personas, salvo a aquéllas que sea necesario para llevar a efecto los propósitos de la comunicación.
+(b) Sujeto a lo dispuesto en esta regla, la persona cliente —sea o no parte en el pleito o acción— tiene el privilegio de rehusar revelar, y de impedir que otra persona revele, una comunicación confidencial entre ella y su contadora o contador público autorizado. El privilegio puede ser invocado sólo por quien posee el privilegio, que es la persona cliente.
+(c) No existe privilegio bajo esta regla si:
+(1) Los servicios a la contadora o contador público autorizado fueron solicitados y obtenidos para permitir o ayudar a cualquier persona a cometer o planear la comisión de un delito o un fraude.
+(2) La comunicación es pertinente a una controversia relativa a una violación de los deberes mutuos que surjan de la relación contadora o contador público autorizado y cliente.
+(3) La comunicación es pertinente a una materia de común interés para dos o más clientes de la contadora o contador público autorizado, en cuyo caso una de las personas clientes no puede invocar el privilegio contra las otras.
+(4) El contenido de la comunicación se le requiere durante un procedimiento civil o penal bajo la Ley de Armas, Ley de Sustancias Controladas, Ley de Explosivos, Ley Contra el Crimen Organizado, las disposiciones del Código Penal y las leyes especiales sobre estas materias.
+(5) Las normas que regulan la profesión de la contabilidad requieren que se divulgue la comunicación.
+(6) La comunicación entre la contadora o contador público autorizado y su cliente puede ser divulgada por mandato de ley o por razón de interés público apremiante.
+(d) Cuando dos o más personas se unen como clientes de la misma contadora o el mismo contador público autorizado en cuanto a un asunto de interés común entre ellas, ninguna podrá renunciar al privilegio sin el consentimiento de las otras.

@@ -1,0 +1,17 @@
+# Regla 506. RELACIÓN MÉDICO Y PACIENTE.
+(a) Según usadas en esta regla, las siguientes expresiones tendrán el significado que a continuación se indica:
+(1) Médico. — Persona autorizada, o a quien el o la paciente razonablemente cree que está autorizada a ejercer la medicina en el lugar en que se efectúa la consulta o el examen médico.
+(2) Paciente. — Persona que con el único fin de obtener tratamiento médico, o un diagnóstico preliminar a dicho tratamiento, consulta a aquélla que es médico o se somete a examen por ésta.
+(3) Comunicación confidencial. — Aquélla habida entre el o la médico y el o la paciente en relación con alguna gestión profesional basada en la confianza de que ésta no será divulgada a terceras personas, salvo a aquéllas que sea necesario para llevar a efecto el propósito de la comunicación.
+(b) Sujeto a lo dispuesto en esta regla, el o la paciente-sea o no parte en el pleito o acción-tiene el privilegio de rehusar revelar, y de impedir que otra persona revele, una comunicación confidencial habida entre el o la paciente y su médico si uno u otro razonablemente creían que la comunicación era necesaria para permitir el diagnóstico o ayudar en un diagnóstico de la condición del o de la paciente o para prescribir o darle tratamiento. El privilegio puede ser invocado no sólo por quien lo posee-que es el o la paciente-sino también por una persona autorizada para ello en beneficio del o de la paciente. También puede ser invocado por el o la médico a quien se hizo la comunicación confidencial, si éste o ésta lo invoca a nombre de y para beneficio de su paciente.
+(c) No existe privilegio bajo esta regla si:
+(1) La cuestión en controversia concierne a la condición del o de la paciente, sea una acción para recluirle o ponerle bajo custodia por razón de alegada incapacidad mental o una acción en la que el o la paciente trata de establecer su capacidad.
+(2) Los servicios del médico fueron solicitados u obtenidos para hacer posible o ayudar a cometer o planear la comisión de un delito o fraude.
+(3) El procedimiento es de naturaleza criminal.
+(4) El procedimiento es una acción civil para recobrar daños con motivo de conducta del o de la paciente y se demuestra justa causa para revelar la comunicación.
+(5) El procedimiento es sobre una controversia relacionada con la validez de un alegado testamento del o de la paciente.
+(6) La controversia es entre partes que derivan sus derechos del o de la paciente, ya sea por sucesión testada o intestada.
+(7) La comunicación es pertinente a una controversia basada en el incumplimiento de los deberes mutuos que surgen de la relación médico y paciente.
+(8) Se trata de una acción en que la condición del o de la paciente constituye un elemento o factor de la reclamación o defensa del o de la paciente, o de cualquier persona que reclama al amparo del derecho del o de la paciente o a través de éste o ésta, o como beneficiario del o de la paciente en virtud de un contrato en el cual él o ella es o fue parte.
+(9) La persona poseedora del privilegio hizo que quien es el o la médico, su agente, empleada o empleado declarara en una acción respecto a cualquier materia que vino en conocimiento del o de la médico, su agente, empleada o empleado por medio de la comunicación.
+(10) La comunicación es pertinente a una controversia relacionada con un examen médico ordenado por el tribunal al o la paciente, sea éste o ésta parte o testigo en el pleito.

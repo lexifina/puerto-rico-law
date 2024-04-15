@@ -1,0 +1,2 @@
+# Regla 1102. INSPECCIONES OCULARES.
+La inspección ocular es un medio de prueba que el tribunal puede admitir cuando lo permita la ley o conforme a su poder inherente para recibir las pruebas y hacer justicia. En toda inspección ocular el tribunal levantará un acta detallada del trámite y los hechos observados que formará parte de los autos con el valor probatorio que corresponda luego de presentada toda la prueba. El tribunal puede denegar una inspección ocular a base de los factores señalados en la Regla 403.

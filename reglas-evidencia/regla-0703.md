@@ -1,0 +1,4 @@
+# Regla 703. CALIFICACIÓN COMO PERSONA PERITA.
+(a) Toda persona está calificada para declarar como testigo pericial si posee especial conocimiento, destreza, experiencia, adiestramiento o instrucción suficiente para calificarla como experta o perita en el asunto sobre el cual habrá de prestar testimonio. Si hubiere objeción de parte, dicho especial conocimiento, destreza, adiestramiento o instrucción deberá ser probado antes de que la persona testigo pueda declarar como perita.
+(b) El especial conocimiento, destreza, experiencia, adiestramiento o instrucción de una persona que es testigo pericial podrá ser probado por cualquier evidencia admisible, incluyendo su propio testimonio.
+(c) La estipulación sobre la calificación de una persona perita no es impedimento para que las partes puedan presentar prueba sobre el valor probatorio del testimonio pericial.

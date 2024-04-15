@@ -1,0 +1,2 @@
+# Regla 1201. VIGENCIA.
+Estas reglas comenzarán a regir el primero de enero de 2010. Las reglas se aplicarán a todos los juicios, procedimientos o acciones iniciadas, en o después de esa fecha. A esos fines, se entenderá que un juicio comienza con la prestación de juramento del primer testigo o cuando se admite en evidencia el primer exhibit . Si se decreta un nuevo juicio y éste comienza, en o después de la vigencia de las reglas, éstas se aplicarán en dicho juicio, sin importar cuándo comenzaron los procedimientos originales.

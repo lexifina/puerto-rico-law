@@ -1,0 +1,15 @@
+# Regla 412. CASOS RELACIONADOS CON CONDUCTA SEXUAL ILÍCITA; PERTINENCIA DE CONDUCTA SEXUAL PREVIA DE UNA ALEGADA VÍCTIMA DE AGRESIÓN SEXUAL; EVIDENCIA SOBRE ALEGADA PROPENSIÓN SEXUAL.
+(a) Evidencia generalmente inadmisible. — La siguiente evidencia es inadmisible en cualquier procedimiento criminal que involucre alegaciones de conducta sexual ilícita:
+(1) Evidencia de opinión, reputación o conducta sexual que se ofrece para probar que cualquier alegada víctima participó en otra conducta sexual.
+(2) Evidencia de cualquier otro tipo que se ofrece para probar la propensión sexual de cualquier alegada víctima.
+(b) Excepciones. — En casos penales la siguiente evidencia es admisible, salvo que resulte inadmisible bajo otras reglas:
+(1) Evidencia de actos específicos de conducta sexual de la alegada víctima, que es ofrecida para probar que una persona distinta a la que fue acusada originó el semen, las lesiones u otra evidencia física.
+(2) Evidencia de actos específicos de conducta sexual de la alegada víctima con la persona acusada de conducta sexual ilícita, que se ofrece por la persona acusada para probar que hubo consentimiento o por el Ministerio Público.
+(3) Evidencia cuya exclusión violaría los derechos constitucionales de la persona acusada.
+(c) Procedimiento para determinar admisibilidad. —
+(1) Una parte que se propone presentar evidencia según las excepciones establecidas en el inciso (b) de esta regla deberá:
+(A) Presentar una moción en la cual describa de forma específica la evidencia en cuestión sostenida en declaración jurada y donde se exprese el propósito para el cual la ofrece.
+(B) Someter la moción por lo menos 14 días antes del juicio, excepto si el tribunal, por justa causa, establece un plazo distinto o permite que se presente durante el juicio.
+(C) Notificar la moción a todas las partes y a la alegada víctima. Cuando ésta sea menor o incapacitada, la notificación deberá efectuarse a su tutor o representante legal.
+(2) Antes de admitir evidencia bajo esta regla, el tribunal debe celebrar una vista en privado donde se le brinde oportunidad a las partes de presentar prueba. En los casos que se ventilen ante tribunal de derecho, la determinación en cuanto a la admisibilidad de evidencia la hará un juez distinto al que preside el juicio. En la vista sólo se permitirá la presencia de la víctima, la persona acusada, el Ministerio Público, la abogada o el abogado de defensa y personal de apoyo del tribunal y de las partes. La moción, los documentos relacionados y el expediente de la vista permanecerán sellados, excepto si el tribunal ordena lo contrario.
+(3) Al terminar la vista, si el tribunal determina que la evidencia que se propone ofrecer la persona acusada es pertinente y que su naturaleza inflamatoria o perjudicial no tendrá un peso mayor que su valor probatorio, dictará una orden escrita indicando la evidencia que puede ser presentada por la persona acusada y la naturaleza de las preguntas permitidas. La persona acusada entonces podrá ofrecer evidencia de acuerdo con la orden del tribunal.

@@ -1,0 +1,5 @@
+# Regla 802. DECLARACIONES ANTERIORES.
+No empece a lo dispuesto en la Regla 801, no se considerará prueba de referencia una declaración anterior si la persona declarante testifica en el juicio o vista sujeto a contrainterrogatorio en relación con la declaración anterior y ésta hubiera sido admisible de ser hecha por la persona declarante en el juicio o vista, y:
+(a) Es inconsistente con el testimonio prestado en el juicio o vista y fue dada bajo juramento y sujeta a perjurio;
+(b) es consistente con el testimonio prestado en el juicio o vista y se presenta con el propósito de refutar una alegación expresa o implícita contra la persona declarante sobre fabricación reciente, influencia o motivación indebida, o
+(c) identifica a una parte o a otra persona que participó en un delito o en otro suceso, se hizo en el momento en que el delito o suceso estaba fresco en la memoria de la persona testigo y se ofrece luego de que la persona testigo haya testificado haber hecho la identificación y que ésta reflejaba fielmente su opinión en aquel momento.

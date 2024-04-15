@@ -1,0 +1,2 @@
+# Regla 513. SECRETOS DEL NEGOCIO.
+La dueña o el dueño de un secreto comercial o de negocio tiene el privilegio -que podrá ser invocado por ella o por él o por la persona que es su agente o empleada- de rehusar divulgarlo y de impedir que otra persona lo divulgue, siempre que ello no tienda a encubrir un fraude o causar una injusticia. Si fuere ordenada su divulgación, el Tribunal deberá tomar aquellas medidas necesarias para proteger los intereses de la dueña o del dueño del secreto comercial, de las partes y de la justicia.

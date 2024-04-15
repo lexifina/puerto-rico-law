@@ -1,0 +1,3 @@
+# Regla 514. PRIVILEGIO SOBRE INFORMACIÓN OFICIAL.
+(a) Según usada en esta regla, "información oficial" significa aquélla adquirida en confidencia por una persona que es funcionaria o empleada pública en el desempeño de su deber y que no ha sido oficialmente revelada ni está accesible al público hasta el momento en que se invoca el privilegio.
+(b) Una persona que es funcionaria o empleada pública tiene el privilegio de no divulgar una materia por razón de que constituye información oficial. No se admitirá evidencia sobre la misma si el tribunal concluye que la materia es información oficial y su divulgación está prohibida por ley, o que divulgar la información en la acción sería perjudicial a los intereses del gobierno.

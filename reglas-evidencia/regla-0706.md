@@ -1,0 +1,2 @@
+# Regla 706. REVELACIÓN DE LA BASE PARA LA OPINIÓN.
+La persona perita puede declarar sobre sus opiniones o inferencias y expresar las razones que las fundamentan sin haber declarado antes sobre los hechos o datos en que sus opiniones o inferencias están basadas, salvo que el tribunal lo requiera. En todo caso, se le podrá requerir a la persona perita que revele los hechos o datos en los que basa sus opiniones o inferencias durante el contrainterrogatorio.

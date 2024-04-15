@@ -1,0 +1,2 @@
+# Regla 1202. DEROGACIÓN Y VIGENCIA PROVISIONAL.
+(A) Derogación. — Quedan derogadas las Reglas de Evidencia de Puerto Rico en vigor desde el 1 de octubre de 1979, y el artículo 527 del Código de Enjuiciamiento Civil de 1933. (B) Vigencia provisional. — Quedarán provisionalmente vigentes los siguientes artículos del Código de Enjuiciamiento Civil de 1933: 392, 394, 409, 421, 426, 429, 528, 529, 530 y 531, y los incisos (C) y (D) de la Regla 82 de Evidencia de 1979 hasta tanto sean modificados, derogados o reubicados por leyes especiales.
