@@ -1,0 +1,2 @@
+# Artículo II, Sección 19
+La enumeración de derechos que antecede no se entenderá en forma restrictiva ni supone la exclusión de otros derechos pertenecientes al pueblo en una democracia, y no mencionados específicamente. Tampoco se entenderá como restrictiva de la facultad de la Asamblea Legislativa para aprobar leyes en protección de la vida, la salud y el bienestar del pueblo.

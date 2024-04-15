@@ -1,0 +1,2 @@
+# Artículo V, Sección 2
+Los tribunales de Puerto Rico constituirán un sistema judicial unificado en lo concerniente a jurisdicción , funcionamiento y administración. La Asamblea Legislativa, en cuanto no resulte incompatible con esta Constitución, podrá crear y suprimir tribunales, con excepción del Tribunal Supremo, y determinará su competencia y organización.

@@ -1,0 +1,2 @@
+# Artículo III, Sección 14
+Ningún miembro de la Asamblea Legislativa será arrestado mientras esté en sesión la cámara de la cual forma parte, ni durante los quince días anteriores o siguientes a cualquier sesión, excepto por traición, delito grave, o alteración de la paz; y todo miembro de la Asamblea Legislativa gozará de inmunidad parlamentaria por sus votos y expresiones en una u otra cámara o en cualquiera de sus comisiones.

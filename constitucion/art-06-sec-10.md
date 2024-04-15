@@ -1,0 +1,2 @@
+# Artículo VI, Sección 10
+Ninguna ley concederá compensación adicional a un funcionario, empleado, agente o contratista por servicios al gobierno, después que los servicios hayan sido prestados o después que se haya formalizado el contrato. Ninguna ley prorrogará el término de un funcionario público ni disminuirá su sueldo a emolumentos después de su elección o nombramiento. Ninguna persona podrá recibir sueldo por más de un cargo o empleo en el gobierno de Puerto Rico.

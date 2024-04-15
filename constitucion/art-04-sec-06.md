@@ -1,0 +1,2 @@
+# Artículo IV, Sección 6
+Sin perjuicio de la facultad de la Asamblea Legislativa para crear, reorganizar y consolidar departamentos ejecutivos de gobierno, y para definir sus funciones, se establecen los siguientes: de Estado, de Justicia, de Instrucción Pública, de Salud, de Hacienda, de Trabajo, de Agricultura y Comercio y de Obras Públicas. Cada departamento ejecutivo estará a cargo de un Secretario de Gobierno.

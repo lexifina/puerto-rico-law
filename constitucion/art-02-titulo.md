@@ -1,0 +1,2 @@
+# Artículo II
+CARTA DE DERECHOS

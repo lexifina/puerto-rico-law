@@ -1,0 +1,3 @@
+# Artículo II, Sección 13
+El auto de hábeas corpus será concedido con rapidez y libre de costas. No se suspenderá el privilegio del auto de hábeas corpus a no ser que, en casos de rebelión, insurrección o invasión, así lo requiera la seguridad pública. Sólo la Asamblea Legislativa tendrá el poder de suspender el privilegio del auto de hábeas corpus y las leyes que regulan su concesión.
+La autoridad militar estará siempre subordinada a la autoridad civil.

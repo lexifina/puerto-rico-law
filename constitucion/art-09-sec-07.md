@@ -1,0 +1,2 @@
+# Artículo IX, Sección 7
+La Asamblea Legislativa podrá aprobar las leyes que fueren necesarias para complementar y hacer efectivas estas disposiciones transitorias a fin de asegurar el funcionamiento del Gobierno, hasta que los funcionarios que en esta Constitución se proveen sean electos o nombrados y tomen posesión de sus cargos, y hasta que esta Constitución adquiera vigencia en todos sus aspectos.

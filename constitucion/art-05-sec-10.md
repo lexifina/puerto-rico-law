@@ -1,0 +1,2 @@
+# Artículo V, Sección 10
+La Asamblea Legislativa establecerá un sistema de retiro para los jueces, retiro que será obligatorio cuando hubieren cumplido setenta años de edad.

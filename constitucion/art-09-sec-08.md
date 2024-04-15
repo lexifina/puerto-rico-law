@@ -1,0 +1,2 @@
+# Artículo IX, Sección 8
+De crearse un Departamento de Comercio, el departamento denominado de Agricultura y Comercio en esta Constitución, se llamará Departamento de Agricultura.

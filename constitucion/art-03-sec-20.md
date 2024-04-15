@@ -1,0 +1,2 @@
+# Artículo III, Sección 20
+Al aprobar cualquier proyecto de ley que asigne fondos en más de una partida, el Gobernador podrá eliminar una o más partidas o disminuir las mismas, reduciendo al mismo tiempo los totales correspondientes.

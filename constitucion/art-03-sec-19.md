@@ -1,0 +1,5 @@
+# Artículo III, Sección 19
+Cualquier proyecto de ley que sea aprobado por una mayoría del número total de los miembros que componen cada cámara se someterá al Gobernador y se convertirá en ley si éste lo firma o si no lo devuelve con sus objeciones a la cámara de origen dentro de diez días (exceptuando los domingos) contados a partir de la fecha en que lo hubiese recibido.
+Cuando el Gobernador devuelva un proyecto, la cámara que lo reciba consignará las objeciones del Gobernador en el libro de actas y ambas cámaras podrán reconsiderar el proyecto, que de ser aprobado por dos terceras partes del número total de los miembros que componen cada una de ellas, se convertirá en ley.
+Si la Asamblea Legislativa levanta sus sesiones antes de expirar el plazo de diez días de haberse sometido un proyecto al Gobernador, éste quedará relevado de la obligación de devolverlo con sus objeciones, y el proyecto solo se convertirá en ley de firmarlo el Gobernador dentro de los treinta días de haberlo recibido.
+Toda aprobación final o reconsideración de un proyecto será en votación por lista.

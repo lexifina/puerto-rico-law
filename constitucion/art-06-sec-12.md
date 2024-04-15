@@ -1,0 +1,2 @@
+# Artículo VI, Sección 12
+Los edificios y propiedades pertenecientes al Estado Libre Asociado que hasta ahora han sido usados y ocupados por el Gobernador como Jefe Ejecutivo, y aquellos que usare y ocupare en la misma capacidad, no devengarán rentas.

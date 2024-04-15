@@ -1,0 +1,2 @@
+# Artículo VII, Sección 3
+Ninguna enmienda a esta Constitución podrá alterar la forma republicana de gobierno que por ella se establece o abolir su Carta de Derechos. Cualquier enmienda o revisión de esta constitución deberá ser compatible con la resolución decretada por el Congreso de los Estados Unidos aprobando esta constitución, con las disposiciones aplicables de la Constitución de los Estados Unidos, con la ley de Relaciones Federales con Puerto Rico y con la Ley Pública 600 del Congreso Octogésimoprimero, adoptada con el carácter de un convenio.

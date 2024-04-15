@@ -1,0 +1,2 @@
+# Artículo II, Sección 6
+Las personas podrán asociarse y organizarse libremente para cualquier fin lícito, salvo en organizaciones militares o cuasi militares.

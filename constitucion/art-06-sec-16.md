@@ -1,0 +1,2 @@
+# Artículo VI, Sección 16
+Todos los funcionarios y empleados del Estado Libre Asociado, sus agencias, instrumentalidades y subdivisiones políticas prestarán antes de asumir las funciones de sus cargos, juramento de fidelidad a la Constitución de los Estados Unidos de América y a la Constitución y a las leyes del Estado Libre Asociado de Puerto Rico.

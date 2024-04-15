@@ -1,0 +1,2 @@
+# Artículo VI, Sección 7
+Las asignaciones hechas para un año económico no podrán exceder de los recursos totales calculados para dicho año económico, a menos que se provea por ley para la imposición de contribuciones suficientes para cubrir dichas asignaciones.

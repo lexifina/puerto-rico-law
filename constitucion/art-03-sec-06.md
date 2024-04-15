@@ -1,0 +1,2 @@
+# Artículo III, Sección 6
+Para ser electo o nombrado Senador o Representante por un distrito será requisito haber residido en el mismo durante no menos de un año con anterioridad a su elección o nombramiento. Cuando hubiere más de un distrito representativo en un municipio, se cumplirá este requisito con la residencia en el municipio.

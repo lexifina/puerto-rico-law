@@ -1,0 +1,2 @@
+# Artículo III, Sección 18
+Se determinará por ley los asuntos que puedan ser objeto de consideración mediante resolución conjunta, pero toda resolución conjunta seguirá el mismo trámite de un proyecto de ley.

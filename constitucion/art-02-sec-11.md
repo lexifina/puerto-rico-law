@@ -1,0 +1,7 @@
+# Artículo II, Sección 11
+En todos los procesos criminales, el acusado disfrutará del derecho a un juicio rápido y público, a ser notificado de la naturaleza y causa de la acusación recibiendo copia de la misma, a carearse con los testigos de cargo, a obtener la comparecencia compulsoria de testigos a su favor, a tener asistencia de abogado, y a gozar de la presunción de inocencia.
+En los procesos por delito grave el acusado tendrá derecho a que su juicio se ventile ante un jurado imparcial compuesto por doce vecinos del distrito, quienes podrán rendir veredicto por mayoría de votos en el cual deberán concurrir no menos de nueve.
+Nadie será obligado a incriminarse mediante su propio testimonio y el silencio del acusado no podrá tenerse en cuenta ni comentarse en su contra.
+Nadie será puesto en riesgo de ser castigado dos veces por el mismo delito.
+Todo acusado tendrá derecho a quedar en libertad bajo fianza antes de mediar un fallo condenatorio.
+La detención preventiva antes del juicio no excederá de seis meses. Las fianzas y las multas no serán excesivas. Nadie será encarcelado por deuda.

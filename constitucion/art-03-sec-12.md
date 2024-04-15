@@ -1,0 +1,2 @@
+# Artículo III, Sección 12
+Una mayoría del número total de los miembros que componen cada cámara constituirá quórum, pero un número menor podrá recesar de día en día y tendrá autoridad para compeler la asistencia de los miembros ausentes.

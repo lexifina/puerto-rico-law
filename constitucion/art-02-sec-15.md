@@ -1,0 +1,3 @@
+# Artículo II, Sección 15
+No se permitirá el empleo de menores de catorce años en cualquier ocupación perjudicial a la salud o a la moral, o que de alguna manera amenace la vida o integridad física.
+No se permitirá el ingreso de un menor de dieciséis años en una cárcel o presidio.

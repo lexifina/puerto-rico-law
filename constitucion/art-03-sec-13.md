@@ -1,0 +1,2 @@
+# Artículo III, Sección 13
+Las cámaras legislativas se reunirán en el Capitolio de Puerto Rico y ninguna de ellas podrá suspender sus sesiones por más de tres días consecutivos sin el consentimiento de la otra.
