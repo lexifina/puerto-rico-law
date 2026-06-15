@@ -1,0 +1,7 @@
+# Regla 121. RECUSACIÓN MOTIVADA; FUNDAMENTOS.
+La recusación motivada de un jurado podrá hacerse por cualquiera de los siguientes fundamentos:
+(a) Que no es elegible para actuar como tal.
+(b) Que tiene parentesco de consanguinidad o afinidad dentro del cuarto grado con el acusado, su abogado, el fiscal, con la persona que se alega agraviada o con aquélla cuya denuncia motivó la causa.
+(c) Que tiene con el acusado o con la persona que se alega agraviada relaciones de tutor y pupilo, de abogado y cliente, de patrono y empleado, o de propietario e inquilino; que es parte contraria al acusado en una causa civil, o que lo ha acusado o ha sido acusado por él en un proceso criminal.
+(d) Que ha actuado en un jurado que ha juzgado a otra persona por los mismos hechos que motivan la acusación, o ha pertenecido a otro jurado que juzgó la misma causa, o que tiene conocimiento personal de hechos esenciales en la causa.
+(e) Que no puede juzgar la causa con completa imparcialidad. No será motivo de incapacidad para actuar como miembro del jurado el hecho de que la persona haya formado o expresado su opinión acerca del asunto o causa que haya de someterse a la deliberación de aquél, si dicha opinión se funda en rumores públicos, manifestaciones de la prensa, o en la notoriedad del caso, siempre que a juicio del tribunal, previa la declaración que bajo juramento o en otra forma preste, la persona esté en aptitud, no obstante dicha opinión, de actuar con entera imparcialidad y rectitud en el asunto que a ella haya de someterse.

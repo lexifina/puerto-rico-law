@@ -1,0 +1,2 @@
+# Regla 184. SENTENCIA POSTERIORMENTE ANULADA O REVOCADA.
+El tiempo que hubiere permanecido privada de su libertad cualquier persona en cumplimiento de una sentencia que fuere posteriormente anulada o revocada se descontará totalmente del término de prisión que deba cumplir dicha persona en caso de ser nuevamente sentenciada por los mismos hechos que motivaron la imposición de la sentencia anulada o revocada.

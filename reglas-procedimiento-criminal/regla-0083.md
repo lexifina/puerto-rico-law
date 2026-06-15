@@ -1,0 +1,2 @@
+# Regla 83. MOCIÓN DE TRASLADO; RESOLUCIÓN.
+Al resolver la moción de traslado, el tribunal considerará los hechos alegados en ella y la declaración jurada que se acompañe, cualesquiera otras declaraciones juradas que se presenten y la evidencia admitida en la vista de dicha moción. Si el tribunal concediere el traslado, dictará una orden trasladando la causa a la sala de la misma sección que fuere la propia o a la sala más convenientemente situada, donde pueda celebrarse un juicio justo e imparcial.

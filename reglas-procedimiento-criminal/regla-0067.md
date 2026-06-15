@@ -1,0 +1,2 @@
+# Regla 67. ORDEN DESESTIMANDO EL PROCESO; CUANDO IMPIDE UNO NUEVO.
+Una resolución declarando con lugar una moción para desestimar no será impedimento para la iniciación de otro proceso por el mismo delito a menos que el defecto u objeción fuere insubsanable, o a menos que tratándose de un delito menos grave (misdemeanor) dicha moción fuere declarada con lugar por alguno de los fundamentos relacionados en la Regla 64(n).

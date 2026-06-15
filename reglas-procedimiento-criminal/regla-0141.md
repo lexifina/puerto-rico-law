@@ -1,0 +1,2 @@
+# Regla 141. JURADO; DELIBERACIÓN; REGRESO A SALA A SU SOLICITUD.
+Después que el jurado se hubiere retirado a deliberar, si se suscitare cualquier desacuerdo o duda entre los miembros con respecto a la prueba testifical, o desearen ser informados acerca de algún punto de derecho que surja de la causa, deberán requerir al oficial encargado de ellos que los conduzca al tribunal. Una vez en él, la información solicitada les será dada previa notificación al fiscal y al acusado o su abogado.

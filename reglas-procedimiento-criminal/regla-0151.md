@@ -1,0 +1,2 @@
+# Regla 151. JURADO; COMPROBACIÓN DEL VEREDICTO RENDIDO.
+Cuando el jurado hubiere rendido un veredicto, a requerimiento de cualquier parte o a instancias del propio tribunal, tal veredicto deberá ser comprobado en cuanto a cada miembro del jurado. Si como resultado de esta comprobación se determinare que el veredicto no fue rendido, al menos, por nueve miembros del jurado, se le podrá ordenar al mismo retirarse a continuar sus deliberaciones o podrá ser disuelto.

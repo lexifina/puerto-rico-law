@@ -1,0 +1,2 @@
+# Regla 93. ACUMULACIÓN O SEPARACIÓN; CÓMO Y CUÁNDO SE PRESENTARÁ LA SOLICITUD.
+La solicitud para la acumulación o separación de causas bajo las Reglas 89 a 92 deberá presentarse por escrito, con no menos de veinte (20) días de antelación al juicio y expresará las razones en que se funda. Deberá notificarse a la otra parte. Por causa justificada, el tribunal podrá permitir que dicha solicitud se presente en cualquier momento antes de ser llamado el caso para juicio.

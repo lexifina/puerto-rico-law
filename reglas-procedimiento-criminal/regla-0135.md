@@ -1,0 +1,4 @@
+# Regla 135. ABSOLUCIÓN PERENTORIA.
+Queda abolida la moción para que se ordene un veredicto absolutorio. El tribunal a instancia propia o a instancia de un acusado decretará su absolución perentoria en uno o varios cargos de la acusación o denuncia luego de practicada la prueba de una o de ambas partes si la misma fuere insuficiente para sostener una convicción por ese cargo o cargos.
+De presentarse una moción de absolución perentoria, luego de practicada toda la prueba, el tribunal podrá reservarse su resolución, someter el caso al jurado y resolver la moción, bien antes del veredicto o después del veredicto o de disolverse el jurado sin rendir veredicto. Si el tribunal declarare sin lugar la moción antes de rendirse un veredicto de culpabilidad o de disolverse el jurado sin veredicto, la moción podrá reproducirse dentro del término jurisdiccional de los cinco
+(5) días de rendido el veredicto o disuelto el jurado, siempre que no se hubiere dictado sentencia.

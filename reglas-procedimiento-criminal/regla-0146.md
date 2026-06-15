@@ -1,0 +1,4 @@
+# Regla 146. JURADO; VEREDICTO; FORMA.
+El veredicto declarará al acusado "culpable" o "no culpable" o "no culpable por razón de locura". No será necesario conformarlo estrictamente a esta terminología pero la intención del jurado deberá constar claramente. Si el veredicto de culpabilidad se refiere a un delito con distintos grados o a un delito con otros delitos inferiores necesariamente comprendidos en el delito mayor, el veredicto rendido especificará el grado o el delito menor por el cual se hubiere encontrado culpable al acusado.
+Si el jurado tuviere que determinar la condición de subsiguiente del delito imputado y el veredicto fuere de culpabilidad, el mismo expresará además si la alegación sobre convicción anterior es o no cierta.
+En todo caso el veredicto expresará el número de los miembros del jurado que concurrieron.

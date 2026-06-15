@@ -1,0 +1,2 @@
+# Regla 49. OMISIÓN DE NEGAR EXCEPCIONES.
+Una acusación o denuncia no será insuficiente por razón de que no se nieguen en ellas las excepciones o excusas establecidas por ley, a menos que la excepción o excusa hubiere sido incorporada formando parte inseparable de la definición del delito, de tal manera que si se omitiere negar dicha excepción o excusa la acusación o denuncia no cumpliría con los requisitos de la Regla 35.

@@ -1,0 +1,2 @@
+# Regla 222. FIANZA; DEPÓSITO EN LUGAR DE FIANZA.
+En lugar de fiadores, el acusado podrá depositar el importe de la fianza en efectivo, y el depósito así hecho garantizará el cumplimiento de las condiciones expuestas en la Regla 219 y el pago de las costas y de cualquier multa que se impusiere. El funcionario que admitiere el depósito expedirá certificado del mismo y el acusado será puesto en libertad por el funcionario bajo cuya custodia se hallare, al serle entregada la orden de excarcelación correspondiente.

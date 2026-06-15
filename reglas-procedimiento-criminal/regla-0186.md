@@ -1,0 +1,12 @@
+# Regla 186. INHABILIDAD DEL JUEZ.
+(a) Durante el juicio. Si después de comenzado el juicio, y antes del veredicto o fallo, el juez ante quien fuera juzgado el acusado estuviere impedido de continuar con el juicio por razón de muerte, enfermedad u otra inhabilidad o por haber cesado en el cargo, cualquier otro juez de igual categoría en funciones o asignado al tribunal podrá desempeñar dichos deberes, siempre y cuando certifique, dentro de un tiempo razonable a partir de su nombramiento, que se ha familiarizado con el expediente y récord del caso.
+(b) Después del veredicto o fallo de culpabilidad. Si por razón de haber cesado en el cargo, muerte, enfermedad u otra inhabilidad, el juez ante quien fuera juzgado el acusado estuviere impedido de desempeñar los deberes del tribunal después del veredicto o fallo de culpabilidad, cualquier otro juez en funciones o asignado al tribunal podrá desempeñar dichos deberes.
+(c) Casos por jurado y tribunal de derecho. La sustitución a que se refiere el inciso (a) de esta regla sólo podrá ser efectuada en aquellos casos que se estuvieren ventilando ante jurado. Por estipulación de las partes, podrá haber sustitución del juez antes de mediar fallo, en aquellos casos que se estén ventilando por tribunal de derecho.
+(d) Nombramiento del juez sustituto. El juez sustituto deberá ser nombrado por el juez administrador del tribunal al cual pertenecía el primer juez, o en su defecto por el Juez Presidente del Tribunal Supremo de Puerto Rico, dentro de dos (2) días de recibir notificación de inhabilidad del juez.
+(e) Autoridad del juez sustituto. El juez sustituto mantendrá el mismo poder, autoridad y jurisdicción en el caso como si hubiese comenzado ante él mismo.
+(f) Deber del secretario. En aquellos tribunales en donde hay asignado un solo juez, el secretario del tribunal, inmediatamente que conociere de la inhabilidad del juez deberá:
+(1) Notificar inmediatamente al Administrador de los Tribunales, y al Juez Presidente del Tribunal Supremo.
+(2) Citar a las partes para un señalamiento que en ningún caso podrá ser menor de 10 días ni mayor de 15 días.
+(g) Nuevo juicio.
+(1) Si el juez sustituto quedare convencido de que no puede continuar desempeñando los deberes del anterior juez podrá discrecionalmente conceder un nuevo juicio.
+(2) La imposibilidad no atribuible al acusado de cumplir con los trámites dispuestos en esta regla será motivo para conceder un nuevo juicio.

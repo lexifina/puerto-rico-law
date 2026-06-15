@@ -1,0 +1,9 @@
+# Regla 109. TÉRMINO PARA PREPARARSE PARA JUICIO.
+(a) Suspensiones aplicables al Ministerio Fiscal y a la Defensa. — Después de formular su alegación, el acusado tendrá derecho a por lo menos veinte (20) días para prepararse para el juicio.
+(b) Toda moción de suspensión, transferencia de vista o estipulación de suspensión antes del juicio se hará por escrito, por lo menos con cinco (5) días de anterioridad a la fecha del señalamiento.
+En la misma se expondrá lo siguiente:
+(1) Los fundamentos para tal solicitud.
+(2) No menos de tres (3) fechas disponibles del solicitante para la ventilación de la vista, de ésta suspenderse. Las fechas disponibles a ser consignadas deberán estar comprendidas dentro del período del calendario judicial, en el cual el tribunal en cuestión está señalando para vista.
+Una moción de suspensión que no cumpla con lo previamente dispuesto será declarada sin lugar de plano. Sólo podrá formularse una solicitud de suspensión verbalmente el día de la vista fundada en circunstancias extraordinarias no anticipables y fuera del control de las partes o sus abogados.
+Si de la faz de la solicitud escrita o de la solicitud verbal surgiere causa justificada para la suspensión, el juez inmediatamente emitirá una resolución escrita en donde expresará los fundamentos para la concesión de la suspensión, transferencia o aprobación de estipulación de suspensión y en la misma señalará nuevamente la vista para la fecha más cercana disponible. Copia de dicha resolución será enviada al Juez Administrador.
+Toda moción de suspensión o transferencia, o estipulación de suspensión hecha antes de la vista será resuelta o aprobada por el Juez Administrador, excepto cuando éste trasladare el asunto para su determinación al juez que hubiere de entender o estuviere entendiendo en el caso.

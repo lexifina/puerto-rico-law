@@ -1,0 +1,2 @@
+# Regla 183. TÉRMINO DE RECLUSIÓN EN ESPERA DEL RESULTADO DE APELACIÓN CONTRA LA SENTENCIA.
+El tiempo que hubiere permanecido privada de su libertad cualquier persona mientras estuviere pendiente un recurso de apelación incoado contra la sentencia se descontará totalmente del término de prisión que deba cumplir dicha persona como consecuencia de dicha sentencia al ser ésta confirmada o modificada.

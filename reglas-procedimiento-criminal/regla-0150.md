@@ -1,0 +1,2 @@
+# Regla 150. JURADO; VEREDICTO PARCIAL.
+El jurado podrá rendir un veredicto o tantos veredictos como fueren necesarios respecto a uno o más de los cargos de la acusación o a uno o más de los acusados incluidos en la misma, sobre cuya culpabilidad o inocencia estuviere de acuerdo. Si el jurado no pudiere llegar a ningún acuerdo respecto a cualquier cargo o acusado, el tribunal podrá ordenar un nuevo juicio en cuanto a dicho cargo o a dicho acusado.

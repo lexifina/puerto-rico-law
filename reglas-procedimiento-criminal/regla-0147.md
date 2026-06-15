@@ -1,0 +1,2 @@
+# Regla 147. JURADO; VEREDICTO; CONVICCIÓN POR UN DELITO INFERIOR.
+El acusado podrá ser declarado culpable de la comisión de cualquier delito inferior necesariamente comprendido en el delito que se le imputa; o de cualquier grado inferior del delito que se le imputa; o de tentativa de cometer el delito que se le imputa o cualquier otro delito necesariamente comprendido en él, o de cualquier grado que el mismo tenga, si tal tentativa constituye, por sí misma, un delito.

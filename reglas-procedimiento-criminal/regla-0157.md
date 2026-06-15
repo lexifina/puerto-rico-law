@@ -1,0 +1,2 @@
+# Regla 157. JUICIO; ASESINATO; PESO DE LA PRUEBA.
+En un proceso por asesinato, una vez probado que la muerte fue causada por el acusado, recaerá sobre éste la obligación de probar que han mediado circunstancias atenuantes o circunstancias que excusen o justifiquen el hecho de la muerte, a menos que la propia prueba de El Pueblo tienda a demostrar que el delito cometido es un homicidio o que el acusado tenía justificación o excusa para haber cometido el hecho.

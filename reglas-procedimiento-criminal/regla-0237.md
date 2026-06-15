@@ -1,0 +1,2 @@
+# Regla 237. TESTIGOS; ADELANTO DE GASTOS.
+Cuando una persona compareciere en virtud de citación ante un magistrado o tribunal como testigo de El Pueblo o de la defensa y careciere de medios para pagar los gastos que ocasionare su comparecencia, el tribunal podrá, a su discreción, ordenar al secretario que entregue al testigo una suma razonable, que no excederá de las dietas a que tenga derecho y será cargada a cuenta de dichas dietas. La orden del tribunal se hará por escrito, pero podrá dictarse en sala, en el cual caso se hará constar en la minuta.

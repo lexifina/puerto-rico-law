@@ -1,0 +1,3 @@
+# Regla 239. CAPACIDAD MENTAL O COMUNICATIVA DEL ACUSADO ANTES DE LA SENTENCIA.
+Ninguna persona será juzgada, convicta o sentenciada por un delito mientras esté mentalmente incapacitada.
+Ninguna persona que padezca de sordera profunda, severa, moderada o leve, o que refleje cualquier otra situación de hipoacusia o condición que le impida comunicarse efectivamente, será juzgada, convicta o sentenciada por un delito sin que se garantice la provisión de un intérprete de lenguaje de señas y/o labio lectura, o la provisión de algún otro acomodo razonable que garantice la efectividad de la comunicación durante el proceso.

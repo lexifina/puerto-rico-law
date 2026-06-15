@@ -1,0 +1,2 @@
+# Regla 45. OMISIÓN DE ALEGAR VALOR O PRECIO.
+La acusación o la denuncia serán suficientes aunque no especificaren el valor o precio de la propiedad afectada a menos que una alegación en tal sentido fuere necesaria para imputar la comisión de un delito. Bastará con alegar que el valor o precio de la propiedad iguala o excede el valor o precio determinativo del delito. No habrá que alegar los hechos que determinan dicho valor o precio.

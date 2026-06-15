@@ -1,0 +1,2 @@
+# Regla 17. ARRESTO; DERECHO A FORZAR ENTRADA.
+Cuando una persona particular realizare un arresto por un delito grave (felony), y cuando en cualquier caso lo realizare un funcionario del orden público, podrá forzarse cualquier puerta o ventana del edificio en que estuviere la persona que ha de ser arrestada, o de aquél en que ellos tengan fundamentos razonables para creer que estuviere dicha persona, después de haber exigido la entrada y explicado el propósito para el cual se deseare dicha entrada.

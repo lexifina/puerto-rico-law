@@ -1,0 +1,2 @@
+# Regla 60. OMISIÓN DE LEER LA ACUSACIÓN; IRREGULARIDAD EN EL ACTO DE LA LECTURA.
+Si en el acto de la lectura de la acusación se omitiere leer la acusación, o si ocurriere alguna otra irregularidad en este acto, no se afectará por ello la validez de cualquier trámite del proceso si el acusado, por conducto de su abogado o por sí mismo si hubiere renunciado a tener asistencia legal, contestare la acusación o se sometiere a juicio sin objetar dicha omisión o irregularidad.

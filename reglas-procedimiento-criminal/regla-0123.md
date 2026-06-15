@@ -1,0 +1,2 @@
+# Regla 123. RECUSACIONES PERENTORIAS; NÚMERO.
+En todo caso por un delito que apareje necesariamente la pena de noventa y nueve (99) años de reclusión o separación de la sociedad, el acusado y El Pueblo tendrán derecho a diez recusaciones perentorias cada uno. En todos los demás casos el acusado y El Pueblo tendrán derecho a siete (7) recusaciones perentorias cada uno. Formulada recusación perentoria contra un jurado, éste deberá ser excluido y no podrá actuar en la causa.

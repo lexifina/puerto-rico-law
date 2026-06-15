@@ -1,0 +1,7 @@
+# Regla 11. ARRESTO POR UN FUNCIONARIO DEL ORDEN PÚBLICO.
+Un funcionario del orden público podrá hacer un arresto sin la orden correspondiente:
+(a) Cuando tuviere motivos fundados para creer que la persona que va a ser arrestada ha cometido un delito en su presencia. En este caso deberá hacerse el arresto inmediatamente o dentro de un término razonable después de la comisión del delito. De lo contrario, el funcionario deberá solicitar que se expida una orden de arresto.
+(b) Cuando la persona arrestada hubiese cometido un delito grave (felony), aunque no en su presencia.
+(c) Cuando tuviere motivos fundados para creer que la persona que va a ser arrestada ha cometido un delito grave (felony), independientemente de que dicho delito se hubiere cometido o no en realidad.
+Para efectos de estas reglas, se considera funcionario o funcionaria del orden público a aquella persona que tiene a su cargo proteger a las personas, la propiedad y mantener el orden y la seguridad pública. Esto incluye, pero sin limitarse a, todo miembro de la Policía de Puerto Rico y de la Policía Municipal, Agentes del Negociado de Investigaciones Especiales del Departamento de Justicia y Alguaciles de la Rama Judicial.
+Se considera también funcionario o funcionaria del orden público de carácter limitado a todo empleado o empleada público estatal o federal, con autoridad expresa en ley para efectuar arrestos en el desempeño de sus funciones y responsabilidades especiales.

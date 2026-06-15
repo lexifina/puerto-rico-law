@@ -1,0 +1,2 @@
+# Regla 132. SUSPENSIÓN DE SESIÓN; ADVERTENCIA AL JURADO.
+Cada vez que suspenda la sesión, el tribunal deberá advertir a los jurados, ya se les permitiere separarse, o ya quedaren a cargo de funcionarios del tribunal, que es su deber no conversar entre sí ni con otra persona, acerca de ningún particular relacionado con el proceso, ni formar o expresar juicio alguno sobre el mismo, hasta que la causa hubiere sido sometida definitivamente a su deliberación.

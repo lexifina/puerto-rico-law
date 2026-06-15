@@ -1,0 +1,2 @@
+# Regla 71. ALEGACIÓN DE CULPABILIDAD; NEGATIVA DEL TRIBUNAL A ADMITIRLA; PERMISO PARA CAMBIARLA.
+El tribunal podrá negarse a admitir una alegación de culpable y podrá ordenar que se anote alegación de no culpable. El tribunal podrá, además, en cualquier momento antes de dictar sentencia, permitir que la alegación de culpable se retire y que se sustituya por la alegación de no culpable o, previo el consentimiento del fiscal, por la de culpable de un delito inferior al imputado pero incluido en éste, o de un grado inferior del delito imputado.

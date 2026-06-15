@@ -1,0 +1,2 @@
+# Regla 244. NOTIFICACIONES.
+A menos que se disponga en contrario en estas reglas, siempre que se requiera o permita notificar a una parte representada por abogado, la notificación se hará al abogado a no ser que el tribunal ordenare que la parte deberá ser notificada personalmente, y dicha notificación se efectuará de acuerdo con lo dispuesto sobre el particular en las Reglas de Procedimiento Civil para el Tribunal General de Justicia, Ap. V del Título 32.

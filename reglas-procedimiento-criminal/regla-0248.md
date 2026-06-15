@@ -1,0 +1,2 @@
+# Regla 248. EXCEPCIONES ABOLIDAS.
+Quedan abolidas las excepciones a las resoluciones u órdenes del tribunal en el curso del juicio. Para todos los fines que hasta ahora han sido necesarias las excepciones, será suficiente que una parte, al solicitar una resolución u orden del tribunal, o al éste dictarla, formule sus razones u objeciones al efecto; pero si una de las partes no tuviere oportunidad para objetar cualquier resolución u orden, la omisión no le perjudicará.

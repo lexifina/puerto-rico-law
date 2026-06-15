@@ -1,0 +1,2 @@
+# Regla 233. ORDEN DE ALLANAMIENTO; REMISIÓN DE ORDEN DILIGENCIADA.
+El magistrado a quien se devolviere diligenciada una orden de allanamiento o registro unirá a la misma copia del diligenciamiento, el inventario, las declaraciones juradas y cualesquiera otros documentos que hubiere en relación con la misma, y la propiedad ocupada, remitiéndolo todo inmediatamente al tribunal que conociere o hubiere de conocer del delito en relación con el cual se expidió la orden de allanamiento o registro.

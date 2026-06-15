@@ -1,0 +1,4 @@
+# Regla 197. SUSPENSIÓN DE LOS EFECTOS DE SENTENCIA CONDENATORIA; ORDEN DE LIBERTAD A PRUEBA.
+(a) Suspensión de la ejecución de sentencia. — Una apelación de una sentencia condenatoria, o la presentación de una solicitud de certiorari, suspenderá la ejecución de la sentencia una vez se cumpla con la prestación de fianza.
+Una apelación, o la presentación de una solicitud de certiorari, no suspenderá los efectos de una sentencia condenatoria cuando no se admita la prestación de fianza en apelación o una ley especial disponga que no se suspenderá.
+(b) Sentencia de libertad a prueba. — Una apelación de una sentencia condenatoria, o la presentación de una solicitud de certiorari, no suspenderá los efectos de una orden disponiendo que el acusado quede en libertad a prueba. Mientras se sustancia la apelación o el recurso de certiorari, el tribunal sentenciador conservará su facultad para modificar las condiciones de la libertad a prueba o para revocarla.

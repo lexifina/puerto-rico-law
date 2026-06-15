@@ -1,0 +1,2 @@
+# Regla 2. APLICACIÓN Y VIGENCIA.
+Estas reglas regirán el procedimiento en el Tribunal General de Justicia del Estado Libre Asociado de Puerto Rico en todos los procesos de naturaleza penal iniciados en o con posterioridad a la fecha en que entraren en vigor, y en todos los procesos entonces pendientes siempre que su aplicación fuere practicable y no perjudicare los derechos sustanciales del acusado.

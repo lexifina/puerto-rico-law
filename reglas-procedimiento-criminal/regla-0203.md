@@ -1,0 +1,2 @@
+# Regla 203. EXPEDIENTE DE APELACIÓN; REMISIÓN.
+Después de haberse presentado el escrito de apelación, y dentro de los términos prescritos en la Regla 210, el secretario del tribunal apelado remitirá al Tribunal de Circuito de Apelaciones todos los documentos originales del proceso objeto de la apelación, excepto aquellos cuya omisión se hubiere convenido por las partes mediante estipulación escrita unida a los autos. El secretario del tribunal apelado unirá a dichos documentos una certificación que los identifique adecuadamente.

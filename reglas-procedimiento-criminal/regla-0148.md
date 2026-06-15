@@ -1,0 +1,2 @@
+# Regla 148. JURADO; VEREDICTO; RECONSIDERACIÓN ANTE UNA ERRÓNEA APLICACIÓN DE LA LEY.
+Si al rendirse un veredicto de culpabilidad el tribunal considerare que el jurado se ha equivocado en la aplicación de la ley, el juez que lo presida podrá explicar al jurado sus razones y ordenarle que vuelva a considerar el veredicto. Si después de esto se rindiere el mismo veredicto, éste será aceptado por el tribunal. Nada de lo aquí dispuesto será aplicable a un veredicto absolutorio el cual deberá ser aceptado siempre por el tribunal.

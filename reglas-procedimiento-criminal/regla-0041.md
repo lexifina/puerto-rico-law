@@ -1,0 +1,2 @@
+# Regla 41. ALEGACIÓN DE SENTENCIA O PROCEDIMIENTO.
+Al referirse una acusación o denuncia a una sentencia, o a un procedimiento ante cualquier tribunal o funcionario, civil o militar, no será necesario alegar los hechos que confieran jurisdicción a dicho tribunal o funcionario, sino que bastará con alegar en términos generales que la sentencia se dictó o que el procedimiento se llevó a cabo, de modo que se identifiquen los mismos.

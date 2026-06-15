@@ -1,0 +1,2 @@
+# Regla 225. FIANZA; FIADORES; EXONERACIÓN MEDIANTE ENTREGA; ARRESTO DEL ACUSADO.
+Con el objeto de llevar a cabo la entrega del acusado, los fiadores podrán en cualquier momento antes de haber sido finalmente exonerados, y en cualquier lugar dentro del territorio del Estado Libre Asociado de Puerto Rico, arrestarlo ellos mismos, o facultar para ello, por medio de una autorización escrita al dorso de la copia certificada de la fianza, a cualquier persona que tenga la edad y discreción suficientes.

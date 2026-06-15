@@ -1,0 +1,2 @@
+# Regla 191. NUEVO JUICIO; EFECTOS.
+Al concederse un nuevo juicio, éste deberá celebrarse por un delito que no será mayor en grado, o que no podrá ser de mayor gravedad que aquél del cual fue convicto el acusado en el juicio anterior. En el nuevo juicio no podrá utilizarse el veredicto o fallo anterior o hacerse referencia a él, ni como prueba ni como argumento, ni podrá alegarse como fundamento para desestimar la acusación bajo el inciso (e) de la Regla 64.

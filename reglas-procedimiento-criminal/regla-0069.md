@@ -1,0 +1,2 @@
+# Regla 69. ALEGACIONES; PRESENCIA DEL ACUSADO; NEGATIVA DE ALEGAR.
+Excepto cuando la acusación fuere contra una corporación, no se admitirá una alegación de culpable por un delito grave (felony) a no ser que el acusado estuviere presente y formulare la alegación en persona. Una corporación podrá comparecer a alegar por conducto de su abogado. Cuando un acusado se negare a presentar alegación alguna o cuando una corporación dejare de comparecer se registrará alegación de no culpable.

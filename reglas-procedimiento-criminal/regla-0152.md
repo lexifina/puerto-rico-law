@@ -1,0 +1,2 @@
+# Regla 152. JUICIO; CONSPIRACIÓN; ACTOS MANIFIESTOS.
+En un proceso de conspiración, siempre que para la comisión del delito se requiriere un acto manifiesto (overt act) no podrá declararse convicto al acusado a menos que uno o varios de tales actos hubieren sido expresamente alegados en la acusación o denuncia y se probare uno de ellos, pero podrán probarse otros actos manifiestos que no fueren los alegados.

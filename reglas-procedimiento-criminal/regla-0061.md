@@ -1,0 +1,2 @@
+# Regla 61. CÓMO SE RESPONDERÁ A LA ACUSACIÓN.
+Oída la acusación, y a no ser que el tribunal le concediere término para contestar, el acusado responderá a ella inmediatamente mediante alegación, o podrá presentar moción para desestimar o solicitar cualquier remedio apropiado. Si se presentare una moción sin que hubiere alegación, y dicha moción se retirare o fuere desestimada, el acusado responderá entonces mediante alegación.

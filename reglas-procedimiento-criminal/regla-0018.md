@@ -1,0 +1,2 @@
+# Regla 18. ARRESTO; SALIDA A LA FUERZA AL SER DETENIDO.
+Cualquier persona que hubiere entrado legalmente en un edificio con el propósito de realizar un arresto podrá forzar cualquier puerta o ventana si ha sido detenida dentro y si dicha acción fuere necesaria para obtener su libertad, y un funcionario del orden público podrá hacer lo mismo para libertar a una persona que hubiere entrado legalmente a un edificio con el fin de efectuar un arresto y estuviere detenida dentro.

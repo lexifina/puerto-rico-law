@@ -1,0 +1,5 @@
+# Regla 162. SENTENCIA; DEFINICIÓN; CUÁNDO DEBERÁ DICTARSE.
+El término “sentencia” significa el pronunciamiento hecho por el tribunal en cuanto a la pena que se le impone al acusado.
+El tribunal al tiempo de imponer sentencia deberá explicar verbalmente o por escrito las razones para la imposición de la sentencia.
+Cuando se pronunciare un fallo condenatorio en casos de delitos graves (felonies) el tribunal señalará una fecha para dictar sentencia que será por lo menos tres (3) días después de dicho fallo. En casos de delitos menos graves (misdemeanors) el tribunal deberá dictar sentencia no más tarde del día siguiente al del fallo. En ningún caso se dictará sentencia antes de haber sido resuelta cualquier moción de nuevo juicio o moción para que no se dicte sentencia o antes de dar debida consideración al informe presentencia que se requiere de acuerdo con la Regla 162.1.
+Las reglas de evidencia no se aplicarán en la fase de sentencia, excepto lo concerniente a privilegios, según lo contenido en las Reglas 23 a 35 de las Reglas de Evidencia de Puerto Rico.

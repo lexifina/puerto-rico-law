@@ -1,0 +1,2 @@
+# Regla 142. JURADO; DELIBERACIÓN; REGRESO A SALA A INSTANCIAS DEL TRIBUNAL.
+Después de haberse retirado el jurado a deliberar, el tribunal podrá ordenarle que vuelva a la sala de sesiones con el fin de corregir cualquier instrucción errónea o para darle instrucciones adicionales. Tales instrucciones le serán dadas solamente después de haberse notificado al fiscal, al acusado o a su abogado de la decisión del tribunal de corregir o ampliar sus instrucciones al jurado.

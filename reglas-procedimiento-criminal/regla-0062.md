@@ -1,0 +1,2 @@
+# Regla 62. DEFENSAS Y OBJECIONES; CÓMO SE PROMOVERÁN.
+La excepción perentoria y cualquier otra alegación que no fuere la de culpable o no culpable quedan abolidas. Todas las defensas, objeciones y remedios hasta ahora disponibles mediante moción o excepción perentoria, o cualquier otra alegación que no fuere la de culpable o no culpable deberán presentarse mediante moción para desestimar o para solicitar un remedio apropiado.

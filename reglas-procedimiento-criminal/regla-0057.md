@@ -1,0 +1,2 @@
+# Regla 57. ASISTENCIA DE ABOGADO.
+Si el acusado compareciere sin abogado a responder de la acusación, el tribunal deberá informarle de su derecho a tener abogado defensor y designará un abogado para que lo represente en el acto de la lectura de la acusación y en todos los trámites siguientes, a no ser que el acusado renunciare a su derecho a asistencia de abogado o pudiere obtener uno de su propia selección. El tribunal concederá al abogado que nombre un período de tiempo razonable para prepararse para el juicio. Dicho abogado servirá sin costo alguno para el acusado.

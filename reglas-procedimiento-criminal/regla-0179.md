@@ -1,0 +1,3 @@
+# Regla 179. SENTENCIAS CONSECUTIVAS O CONCURRENTES.
+Cuando una persona fuere convicta de un delito, el tribunal sentenciador, al dictar sentencia, deberá determinar si el término de prisión impuesto habrá de cumplirse consecutiva o concurrentemente con cualquiera o cualesquiera otros términos de prisión. Si el tribunal omitiere hacer dicha determinación, el término de prisión impuesto se cumplirá concurrentemente con cualesquiera otros que el tribunal impusiere como parte de su sentencia, o con cualesquiera otros que ya hubieren sido impuestos a la persona convicta.
+En casos donde exista un concurso ideal, concurso real, o delito continuado, se sentenciará conforme lo disponen los Artículos 78, 79 y 80 del Código Penal del Estado Libre Asociado de Puerto Rico.

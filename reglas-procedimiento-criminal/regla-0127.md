@@ -1,0 +1,2 @@
+# Regla 127. JURADOS SUPLENTES; CUÁNDO ACTUARÁN.
+Si en cualquier momento antes de haberse sometido finalmente el caso al jurado, uno de los jurados regulares muriese, o se enfermase en tal forma que quedase imposibilitado para cumplir sus deberes, o tuviese que ser relevado por causa suficiente, el tribunal ordenará su sustitución por el jurado suplente, si hubiere uno solo. Si hubiere más de uno se sorteará el sustituto. Al someterse el caso al jurado el tribunal excusará a los jurados suplentes que no se hubieren utilizado.

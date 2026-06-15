@@ -1,0 +1,2 @@
+# Regla 204. MOCIÓN PRELIMINAR EN EL TRIBUNAL DE CIRCUITO DE APELACIONES; DOCUMENTOS.
+Si con anterioridad a la fecha en que el expediente de apelación fuere remitido al Tribunal de Circuito de Apelaciones, el Pueblo interesare presentar una moción para desestimar o cualquiera de las partes presentare una moción solicitando cualquier orden, acompañará con la moción copias de los documentos que obren en el expediente original del Tribunal de Primera Instancia que fueran necesarios para que el Tribunal de Circuito de Apelaciones pueda resolver la moción.

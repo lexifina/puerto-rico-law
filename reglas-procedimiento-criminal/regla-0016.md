@@ -1,0 +1,3 @@
+# Regla 16. ARRESTO; MEDIOS LÍCITOS PARA EFECTUARLO.
+Cuando el arresto se hiciere por un funcionario con autorización de una orden de arresto, o sin orden de arresto por un delito grave (felony) cometido en su presencia, si después de que se informare a la persona que ha de ser arrestada de la intención de verificar el arresto, dicha persona huyere o resistiere violentamente, el funcionario podrá usar todos los medios necesarios para efectuar el arresto.
+Para realizar un arresto en cualesquiera otras circunstancias, cualquier funcionario o persona particular podrá emplear todos los medios necesarios, excepto que no podrá infligir grave daño corporal.
