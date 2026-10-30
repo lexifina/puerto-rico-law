@@ -1,0 +1,41 @@
+{
+ "parts": {
+  "30-reglas-procedimiento-criminal.json": {
+   "acts": [
+    "reglas-procedimiento-criminal"
+   ],
+   "sha256": "3b8ec998532a14ed1fff9dc329d418a73b02ef8ea77628ed46a90bc11c47ea67"
+  },
+  "31-reglas-evidencia.json": {
+   "acts": [
+    "reglas-evidencia"
+   ],
+   "sha256": "1b85009df3f98cc57fed49f303a004370aec4f55dc56212eaa32cbd2cd0c69b9"
+  },
+  "40-ley-80-1976-despidos.json": {
+   "acts": [
+    "ley-80-1976-despidos"
+   ],
+   "sha256": "32631fec63e309ac04f0bb3ecec9766da1d822b7b02f2767a0c71739a2023e5a"
+  },
+  "41-ley-379-1948-jornada.json": {
+   "acts": [
+    "ley-379-1948-jornada"
+   ],
+   "sha256": "923c55b96a45b9f14464f05a4ea5eb3b6707ed9a1daf82109bec31e50d906e39"
+  },
+  "42-ley-4-2017-flexibilidad-laboral.json": {
+   "acts": [
+    "ley-4-2017-flexibilidad-laboral"
+   ],
+   "sha256": "204bea3fdeebeadeaf6a7567d06554cdfe9ea5f2218d2027f4d0b4873e88ed04"
+  },
+  "50-ley-general-corporaciones.json": {
+   "acts": [
+    "ley-general-corporaciones"
+   ],
+   "sha256": "78ad28a2510a9e051d176ce0d8101f92730634be80eb21afa7ebece25c84eec1"
+  }
+ },
+ "schema": 1
+}
