@@ -1,0 +1,145 @@
+{
+ "country": "PR",
+ "acts": [
+  {
+   "slug": "constitucion",
+   "short": "Constitución",
+   "title": "Constitución del Estado Libre Asociado de Puerto Rico",
+   "url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Derechos%20Civiles/CONST/CONST.pdf",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 112,
+     "source_url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Derechos%20Civiles/CONST/CONST.pdf",
+     "sha256": "0577af3a982d76d6d3b6981d76e13243c50def4e2704ab048c98fc3eff35780c"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-penal",
+   "short": "Código Penal",
+   "title": "Código Penal de Puerto Rico (Ley 146-2012, según enmendada)",
+   "url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Justicia/146-2012/146-2012.pdf",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 323,
+     "source_url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Justicia/146-2012/146-2012.pdf",
+     "sha256": "433e10f099ac9d7bc5095d0317ae969f50e7758e2dbd59432f0bea5731c1815b"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-civil",
+   "short": "Código Civil",
+   "title": "Código Civil de Puerto Rico de 2020 (Ley 55-2020, según enmendada)",
+   "url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/55-2020.pdf",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1821,
+     "source_url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/55-2020.pdf",
+     "sha256": "cf9d35fd7b77e63da2469f47a9c437a805806d5a1836582fbfffeba808f64616"
+    }
+   ]
+  },
+  {
+   "slug": "ley-transacciones-comerciales",
+   "short": "Transacciones Comerciales",
+   "title": "Ley de Transacciones Comerciales (Ley 208-1995, según enmendada)",
+   "url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Transacciones/208-1995/208-1995.pdf",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 412,
+     "source_url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Transacciones/208-1995/208-1995.pdf",
+     "sha256": "42534340ee3f715b40e2d901a17a5edd65a2153545f4c4c67c309acc5de95dc5"
+    }
+   ]
+  },
+  {
+   "slug": "reglas-procedimiento-criminal",
+   "short": "Reglas de Procedimiento Criminal",
+   "title": "Reglas de Procedimiento Criminal de 1963 (según enmendadas)",
+   "url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Justicia/RPC/RPC.pdf",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 263,
+     "source_url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Justicia/RPC/RPC.pdf",
+     "sha256": "9712fbc70a84456366abdcde7e3e08b98c873d4a07a9767b4e46db8e1e4ac503"
+    }
+   ]
+  },
+  {
+   "slug": "reglas-evidencia",
+   "short": "Reglas de Evidencia",
+   "title": "Reglas de Evidencia de Puerto Rico de 2009 (según enmendadas)",
+   "url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Justicia/REVI/REVI.pdf",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 95,
+     "source_url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Justicia/REVI/REVI.pdf",
+     "sha256": "60a7f39c2a127d44900054c9aa4fa30f95240cbd32bebfe163dd0c2e6fb830c6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-80-1976-despidos",
+   "short": "Ley 80-1976",
+   "title": "Ley sobre Despidos Injustificados (Ley 80 de 30 de mayo de 1976, según enmendada)",
+   "url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Trabajo/80-1976/80-1976.pdf",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 16,
+     "source_url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Trabajo/80-1976/80-1976.pdf",
+     "sha256": "e6b24fba7c276cc299fbca5aeb52a2d1dce8e90795dcb49646878cff83698f0a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-379-1948-jornada",
+   "short": "Ley 379-1948",
+   "title": "Ley para Establecer la Jornada de Trabajo en Puerto Rico (Ley 379 de 15 de mayo de 1948, según enmendada)",
+   "url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Trabajo/379-1948.pdf",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 23,
+     "source_url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Trabajo/379-1948.pdf",
+     "sha256": "cd1d9a0600e42a03768b01d23be2379aa1dd5611cda240e25409e2b5e6ebb896"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4-2017-flexibilidad-laboral",
+   "short": "Ley 4-2017",
+   "title": "Ley de Transformación y Flexibilidad Laboral (Ley 4-2017, según enmendada)",
+   "url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Trabajo/4-2017.pdf",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 77,
+     "source_url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Trabajo/4-2017.pdf",
+     "sha256": "8efa250e2bd7af11515b3970935a050aff2a31a506e1cf615e48723b1e9cc484"
+    }
+   ]
+  },
+  {
+   "slug": "ley-general-corporaciones",
+   "short": "Ley General de Corporaciones",
+   "title": "Ley General de Corporaciones (Ley 164-2009, según enmendada)",
+   "url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Corporaciones%20Privadas/164-2009/164-2009.pdf",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 286,
+     "source_url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Corporaciones%20Privadas/164-2009/164-2009.pdf",
+     "sha256": "1a9ba6380b8719e9edc41c65366a2edab591e435b07522633052b8b7ce453f9f"
+    }
+   ]
+  }
+ ]
+}

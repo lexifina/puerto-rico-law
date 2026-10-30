@@ -1,0 +1,8 @@
+{
+  "path": "pr",
+  "code": "PR",
+  "name": "Puerto Rico",
+  "level": "territory",
+  "repo": "https://github.com/lexifina/puerto-rico-law",
+  "build": "built"
+}
