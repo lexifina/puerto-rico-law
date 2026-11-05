@@ -35,6 +35,18 @@
     "ley-general-corporaciones"
    ],
    "sha256": "78ad28a2510a9e051d176ce0d8101f92730634be80eb21afa7ebece25c84eec1"
+  },
+  "60-ley-141-2019-transparencia.json": {
+   "acts": [
+    "ley-141-2019-transparencia"
+   ],
+   "sha256": "3ccfd167b2cf679a57d09410302ef83f701d2344a16751beb70ca4c389a20202"
+  },
+  "61-ley-38-2017-procedimiento-administrativo.json": {
+   "acts": [
+    "ley-38-2017-procedimiento-administrativo"
+   ],
+   "sha256": "d361679041f4ccd439bc265a267f27eb8d8e87272f14b99dbd70b7b030d1af24"
   }
  },
  "schema": 1

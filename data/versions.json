@@ -140,6 +140,34 @@
      "sha256": "1a9ba6380b8719e9edc41c65366a2edab591e435b07522633052b8b7ce453f9f"
     }
    ]
+  },
+  {
+   "slug": "ley-141-2019-transparencia",
+   "short": "Ley 141-2019",
+   "title": "Ley de Transparencia y Procedimiento Expedito para el Acceso a la Información Pública (Ley 141-2019, según enmendada)",
+   "url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/141-2019.pdf",
+   "versions": [
+    {
+     "from": "2025-12-13",
+     "units": 17,
+     "source_url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/141-2019.pdf",
+     "sha256": "d3ab1bbf560d68a2e1247fb4a341d40c51d78f23cec05eb884eaf582c8481a85"
+    }
+   ]
+  },
+  {
+   "slug": "ley-38-2017-procedimiento-administrativo",
+   "short": "Ley 38-2017",
+   "title": "Ley de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico (Ley 38-2017, según enmendada)",
+   "url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Procedimiento%20Uniforme/38-2017.pdf",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 80,
+     "source_url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Procedimiento%20Uniforme/38-2017.pdf",
+     "sha256": "b65036207e8acd26f55162cd8246e7f34ada85e8074c1b37e3898b2a82d0acbf"
+    }
+   ]
   }
  ]
 }
