@@ -1,5 +1,7 @@
 # Puerto Rico: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Puerto Rico's national law, which global-law reads at `puerto-rico/national/acts/`.
+
 The Constitution and core statutes of the Commonwealth of Puerto Rico as a git repository: one file per section or article, and the publisher as the commit's author. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `pr/`.
 
 **Language:** Spanish, the official language of this text. There is no English text from the same publisher.
