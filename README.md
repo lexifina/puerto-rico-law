@@ -1,36 +1,84 @@
 # Puerto Rico: law history in git
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Puerto Rico's national law, which global-law reads at `puerto-rico/national/acts/`.
 
-The Constitution and core statutes of the Commonwealth of Puerto Rico as a git repository: one file per section or article, and the publisher as the commit's author. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `pr/`.
+The law of Puerto Rico as a git history: one file per article, section or rule, one commit per version on the day it took effect, and the source of each version as the commit's author: the law that made the change where it is known, otherwise the publisher. `git blame` names the version behind every line; `git log` lists every change to a provision; picking a date gives the text in force that day.
 
-**Language:** Spanish, the official language of this text. There is no English text from the same publisher.
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Puerto Rico's law, which global-law reads at `puerto-rico/national/acts/`.
 
-**What is in it now**
+**What is in it now:** the Constitution and 11 codes, laws and rules, 3,525 provisions in all, each in one version, the Oficina de Gerencia y Presupuesto's current compilation (revised between 2024 and 2026): the Código Civil de 2020, the Código Penal, the Reglas de Procedimiento Criminal, the Reglas de Evidencia, the Ley de Transacciones Comerciales, the Ley General de Corporaciones, three labour laws (Ley 80-1976 on unjust dismissal, Ley 379-1948 on working hours and Ley 4-2017), the Ley de Procedimiento Administrativo Uniforme (Ley 38-2017) and the Ley de Transparencia (Ley 141-2019). [`data/versions.json`](data/versions.json) lists every act with its version, its day and the copy it was read from.
 
-| Folder | Law | Versions | History |
-| --- | --- | ---: | --- |
-| `constitucion/` | Constitución del Estado Libre Asociado de Puerto Rico | 1 | Oldest version available: the copy revised 15 April 2024 |
-| `codigo-penal/` | Código Penal de Puerto Rico (Ley 146-2012, según enmendada) | 1 | Oldest version available: the OGP compilation revised 5 August 2026 |
-| `codigo-civil/` | Código Civil de Puerto Rico de 2020 (Ley 55-2020, según enmendada) | 1 | Oldest version available: the OGP compilation revised 21 August 2026 |
-| `ley-transacciones-comerciales/` | Ley de Transacciones Comerciales (Ley 208-1995, según enmendada) | 1 | Oldest version available: the OGP compilation revised 23 June 2025 |
-| `reglas-procedimiento-criminal/` | Reglas de Procedimiento Criminal de 1963 (según enmendadas) | 1 | Oldest version available: the OGP compilation revised 15 June 2026 |
-| `reglas-evidencia/` | Reglas de Evidencia de Puerto Rico de 2009 (según enmendadas) | 1 | Oldest version available: the OGP compilation revised 15 April 2024 |
-| `ley-80-1976-despidos/` | Ley sobre Despidos Injustificados (Ley 80-1976, según enmendada) | 1 | Oldest version available: the OGP compilation revised 15 April 2024 |
-| `ley-379-1948-jornada/` | Ley para Establecer la Jornada de Trabajo en Puerto Rico (Ley 379-1948, según enmendada) | 1 | Oldest version available: the OGP compilation revised 15 April 2024 |
-| `ley-4-2017-flexibilidad-laboral/` | Ley de Transformación y Flexibilidad Laboral (Ley 4-2017, según enmendada) | 1 | Oldest version available: the OGP compilation revised 15 April 2024 |
-| `ley-general-corporaciones/` | Ley General de Corporaciones (Ley 164-2009, según enmendada) | 1 | Oldest version available: the OGP compilation revised 31 July 2025 |
-| `ley-141-2019-transparencia/` | Ley de Transparencia y Procedimiento Expedito para el Acceso a la Información Pública (Ley 141-2019, según enmendada) | 1 | Oldest version available: the OGP compilation revised 13 March 2026; latest incorporated amendment effective 13 December 2025 |
-| `ley-38-2017-procedimiento-administrativo/` | Ley de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico (Ley 38-2017, según enmendada) | 1 | Oldest version available: the OGP compilation revised 16 May 2025; latest incorporated amendment effective 14 May 2025 |
+Each act is a folder named after it, with one file per provision and a `README.md` that lists them (`ley-80-1976-despidos/art-0001.md` is Artículo 1 of the Ley sobre Despidos Injustificados, Ley 80-1976; `constitucion/art-02-sec-07.md` is Article II, Section 7 of the Constitution).
 
-This is a first build, not a complete record. Each statute has one current-text version, credited to the publisher rather than to amending laws. The OGP says its compilations are not official and may contain inadvertent errors. Most versions in this repository use the compilation revision date; Ley 141-2019 and Ley 38-2017 use the effective dates of their latest incorporated amendments. OGP's bracketed amendment notes are left out. The Constitution took effect on 25 July 1952 and has been amended since; no official dated earlier texts are online, so its single version is dated by the source's own revision date. Many other Puerto Rico statutes are not included: the annotated code is a commercial publication and the government's free consolidations keep no past versions.
+The text is in Spanish, as the OGP compiles it. An English translation is not part of this record.
 
-**Sources:** Oficina de Gerencia y Presupuesto (OGP), Biblioteca Virtual (bvirtualogp.pr.gov): "Constitución del Estado Libre Asociado de Puerto Rico", Rev. 15 de abril de 2024; "Código Penal de Puerto Rico" (Ley 146-2012, según enmendada), Rev. 5 de agosto de 2026; "Código Civil de Puerto Rico" de 2020 (Ley 55-2020, según enmendada), Rev. 21 de agosto de 2026; "Ley de Transacciones Comerciales" (Ley 208-1995, según enmendada), Rev. 23 de junio de 2025; "Reglas de Procedimiento Criminal" de 1963, Rev. 15 de junio de 2026; "Reglas de Evidencia de Puerto Rico" de 2009, Rev. 15 de abril de 2024; Ley 80-1976, Ley 379-1948 and Ley 4-2017, each Rev. 15 de abril de 2024 (compiled without the amendments of Ley 41-2022, which the Title III court annulled on 3 March 2023); "Ley General de Corporaciones" (Ley 164-2009, según enmendada), Rev. 31 de julio de 2025. The Código de Comercio de 1932 is not included: the OGP does not publish a text-layer copy of it, and the Ley de Transacciones Comerciales, which repealed its Articles 353 to 548, is the nearest equivalent. Rule files are named `regla-0131-1.md` for Rule 131.1; `art-0004-01.md` is Article 4.01. Text-layer PDF, converted to text; page headers and footers removed and wrapped lines joined. No other change was made to the words.
+## Questions as git commands
 
-The Ley 141-2019 text comes from the OGP compilation revised 13 March 2026. That compilation identifies Ley 156 of 13 December 2025 as its latest incorporated amendment. Section 9 of Ley 156 makes it effective immediately after approval. The OGP compilation contains no normative images for this act.
+| Question | Command |
+| --- | --- |
+| Every change to Article 1 of Ley 80-1976 | `git log -p --word-diff -- ley-80-1976-despidos/art-0001.md` |
+| Which version wrote each line of Article 1? | `git blame ley-80-1976-despidos/art-0001.md` |
+| Every version of Ley 80-1976, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- ley-80-1976-despidos ":^*README.md"` |
+| Article 1 as in force on 1 January 2025 | `python tools/on.py 2025-01-01 ley-80-1976-despidos 1` |
 
-The Ley 38-2017 text comes from the OGP compilation revised 16 May 2025. That compilation identifies Ley 16 of 14 May 2025 as its latest incorporated amendment. Article 3 of Ley 16 makes it effective immediately after approval. Its chapter headings and sections are included; the exposition of motives and table of contents are outside the act text. The OGP compilation contains no normative images for this act.
+**Outside git**, we also host this record publicly, for free:
 
-File names: `ley-transacciones-comerciales/sec-03-104.md` is Section 3-104; `codigo-penal/art-0025-a.md` is Article 25A of the Penal Code; `art-02-sec-07.md` is Article II, Section 7; `art-02-titulo.md` is the Article heading; `preambulo.md` is the Preamble.
+- **[Ask Claude about Puerto Rico law](https://global-law.lexifina.com/v1/try_claude?country=puerto-rico)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=puerto-rico)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=vacaciones&jurisdictions=puerto-rico)**: a search of Puerto Rico law for "vacaciones", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-How this repository was made is in [REPRODUCE.md](REPRODUCE.md). This repository is not legal advice; for anything that matters, read the original.
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Spanish or in English.
+
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add puerto-rico/national/acts
+python3 tools/law.py show 2026-01-01 puerto-rico/national/acts/ley-80-1976-despidos/art-0001.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+
+## Dates
+
+Each commit is dated at noon, America/Puerto_Rico, on the day in its `In-force:` trailer:
+
+- for ten acts, the Constitution among them, the revision date the OGP prints on its compilation ("Rev. 15 de abril de 2024"), as the compilation gives no day its text took effect;
+- for Ley 38-2017 and Ley 141-2019, the day their latest incorporated amendment took effect: Ley 16-2025 on 14 May 2025 and Ley 156-2025 on 13 December 2025, each in force on its approval.
+
+Each act's one version is its "oldest version available", credited to the publisher, `Oficina de Gerencia y Presupuesto (OGP), Biblioteca Virtual`, not to the laws that amended it; the committer is Lexifina.
+
+## How it is checked
+
+- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus, whose sha256 is in `data/corpus.sha256`: 12 versions of 12 acts, 0 mismatches ([`REPRODUCE.md`](REPRODUCE.md)).
+- The words are the OGP's own, from the PDFs' text layer: page headers and footers are removed, wrapped lines joined and the OGP's bracketed amendment notes left out; nothing else in the words is changed.
+- History is append-only (`tools/append.py`): no merge commits, commit dates never go backwards, nothing is dated in the future, and every commit's trailers parse.
+
+## What it does not show
+
+- **Earlier versions.** Each act is here only as the OGP compiles it now; the amendments before that are inside its one commit and are not credited to the laws that made them. The OGP keeps no past compilations, and the Constitution, in force since 25 July 1952 and amended since, has no dated earlier texts online.
+- **Most Puerto Rico law.** Other laws, regulations and case law are not here; the annotated code (L.P.R.A.) is a commercial publication. The Código de Comercio de 1932 is left out: the OGP publishes no text-layer copy of it.
+- **Headings and preambles.** Expositions of motives, tables of contents and most chapter and title headings are left out; the Constitution keeps its Preamble and article headings, and Ley 38-2017 its chapter headings.
+- **United States federal law**, which also applies in Puerto Rico.
+
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Biblioteca Virtual](https://bvirtualogp.pr.gov/ogp/Bvirtual/) (Oficina de Gerencia y Presupuesto) | Compilations of the Constitution, codes, laws and rules "según enmendada", and the amending laws | no, current text only | Text-layer PDFs, each with its revision date. The OGP says they are not official and may contain inadvertent errors. Ley 80-1976, 379-1948 and 4-2017 are compiled without Ley 41-2022, which the Title III court annulled on 3 March 2023 |
+
+## Licence
+
+See [`LICENSE`](LICENSE). The OGP states no licence for its compilations; the attribution is "Source: Oficina de Gerencia y Presupuesto, Gobierno de Puerto Rico." Lexifina's tooling and documentation in this repository are under the MIT licence.
+
+No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts were written by Claude Code running Claude Opus 5.5 (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
