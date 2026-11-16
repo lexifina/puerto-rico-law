@@ -59,6 +59,7 @@ La única versión de cada norma es su "oldest version available" (la versión m
 - `tools/check_repo.py` vuelve a leer desde git cada versión el día en que entró en vigor y el día anterior, y la compara con el corpus, cuyo sha256 está en `data/corpus.sha256`: 12 versiones de 12 normas, 0 discrepancias ([`REPRODUCE.md`](REPRODUCE.md)).
 - Las palabras son las de la propia OGP, tomadas de la capa de texto de los PDF: se eliminan los encabezados y pies de página, se unen las líneas cortadas y se omiten las notas de enmienda entre corchetes de la OGP; no se cambia nada más en las palabras.
 - El historial solo crece por adición (`tools/append.py`): no hay commits de fusión (merge), las fechas de commit nunca retroceden, nada lleva una fecha futura y los trailers de todos los commits se pueden analizar.
+- [vulnerabilities/](vulnerabilities/): posibles errores de redacción en este derecho, hallados por los detectores de global-law y revisados a mano. Aún no se ha ejecutado.
 
 ## Lo que no muestra
 
@@ -80,6 +81,10 @@ Véase [`LICENSE`](LICENSE). La OGP no indica ninguna licencia para sus compilac
 Ningún modelo de IA escribió, tradujo ni corrigió texto jurídico, y ninguno se ejecuta al construir el historial; los scripts los escribió Claude Code con Claude Opus 5.5 (véase [`REPRODUCE.md`](REPRODUCE.md)).
 
 Esta es una traducción de la versión inglesa ([README.en.md](README.en.md)); si difieren, prevalece la versión inglesa.
+
+## Visualizaciones
+
+- [visualisations/](visualisations/): gráficos hechos a partir de este repositorio. Aún no se han hecho.
 
 ## Más información
 

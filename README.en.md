@@ -59,6 +59,7 @@ Each act's one version is its "oldest version available", credited to the publis
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus, whose sha256 is in `data/corpus.sha256`: 12 versions of 12 acts, 0 mismatches ([`REPRODUCE.md`](REPRODUCE.md)).
 - The words are the OGP's own, from the PDFs' text layer: page headers and footers are removed, wrapped lines joined and the OGP's bracketed amendment notes left out; nothing else in the words is changed.
 - History is append-only (`tools/append.py`): no merge commits, commit dates never go backwards, nothing is dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -78,6 +79,10 @@ Each act's one version is its "oldest version available", credited to the publis
 See [`LICENSE`](LICENSE). The OGP states no licence for its compilations; the attribution is "Source: Oficina de Gerencia y Presupuesto, Gobierno de Puerto Rico." Lexifina's tooling and documentation in this repository are under the MIT licence.
 
 No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts were written by Claude Code running Claude Opus 5.5 (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
